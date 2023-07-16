@@ -1,0 +1,11 @@
+.DateBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    border: 1px solid white;
+    background-color: #f1faee;
+    width: 100px;
+    gap: 5px;
+    border-radius: 5px;
+}
