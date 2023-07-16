@@ -62,7 +62,7 @@ function App() {
     <div className="appMainContent">
       <div className="buttonContent">
         {isOpen && <NewExpense onAddNewExpense={addExpenseHandler} onCancelHandler={addCancelHandler} />}
-        {!isOpen && <button className='f0ead2' onClick={addExpenseButtonHandler}>Add New Expense</button>}
+        {!isOpen && <button className='newCollapse' onClick={addExpenseButtonHandler}>Add New Expense</button>}
       </div>
       <Expenses expenseDetails={expense} />
     </div>
