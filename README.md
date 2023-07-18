@@ -1,7 +1,7 @@
 
 # Xpense
 
-An expense tracker app which takes new costom bills and adds it to the application simultneously storing it to cloud database. It also has a filter functionality allowing you to filter expenses by year and bar charts for quntitative assessment.
+An expense tracker app that takes new custom bills as input and adds them to the application simultaneously storing them in a cloud database. It also has a filter functionality allowing you to filter expenses by year and bar charts for quantitative assessment.
 
 
 ## Demo
@@ -12,9 +12,9 @@ An expense tracker app which takes new costom bills and adds it to the applicati
 
 ## Features
 
-- Add custom bills .
-- Get quantitative assessment of expenses using bar charts .
-- Get bills filtered based on year .
+- Add custom bills.
+- Get a quantitative assessment of expenses using bar charts.
+- Get bills filtered based on year.
 
 ## Tech Stack
 
